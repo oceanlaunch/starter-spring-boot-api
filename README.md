@@ -13,7 +13,7 @@ A small JSON API in Spring Boot 4 and Java 21, ready to deploy on [OceanLaunch](
 ## Deploy it
 
 In the OceanLaunch portal, open **Templates** and choose **Spring Boot REST API**. Your app is live at its
-`*.apps.oceanlaunch.cloud` address in a few minutes.
+`*.oceanlaunch.app` address in a few minutes.
 
 ## Make it yours
 
